@@ -1,0 +1,22 @@
+name: SeeStaffKey
+version: '${project.version}'
+main: ru.gdev.sstaffkey.SeeStaffKey
+api-version: '1.16'
+load: STARTUP
+softdepend: [LuckPerms]
+authors: [GDev]
+website: https://gdev.pro https://seemine.su
+commands:
+  ssw:
+    description: Основные команды SStaffWork
+    usage: /<command> [reload|help]
+    permission: ssw.admin
+  key:
+    description: Управление ключами
+    usage: /<command> [id|stop|help]
+    permission: ssw.staff
+permissions:
+  ssw.admin:
+    default: op
+  ssw.staff:
+    default: op
