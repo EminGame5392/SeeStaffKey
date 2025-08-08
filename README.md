@@ -79,7 +79,7 @@ keys:
 
 ## 📝 Разработчик
 
-* **Автор:** EminGame5392
+* **Автор:** [GDev](http://gdev.seemine.su)
 * **Версия:** 1.0.0
 * Поддержка: [LuckPerms](https://luckperms.net/), Purpur, Paper, Spigot.
 
