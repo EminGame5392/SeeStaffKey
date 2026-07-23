@@ -1,7 +1,7 @@
 # SeeStaffKey
 
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.16.5-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
+![License](https://img.shields.io/badge/License-GNU-blue)
 
 **SeeStaffKey** — плагин для Minecraft 1.16.5+, позволяющий членам персонала сервера входить и выходить из "режима работы" по специальным ключам.  
 Поддерживает два режима работы:
